@@ -1,0 +1,15 @@
+#DarkMode{
+    @apply transition-colors duration-300
+}
+
+#codeBox::-webkit-scrollbar {
+
+    height: 2px;
+    background-color: rgb(253, 130, 130);
+    color: red;
+}
+
+#codeBox::-webkit-scrollbar-thumb{
+    background-color: green; 
+    
+}
